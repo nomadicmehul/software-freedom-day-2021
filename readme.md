@@ -27,5 +27,5 @@ Special thanks to [Open Source Community: VIT-AP](https://www.linkedin.com/compa
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
-For any queries raise a [issue](https://github.com/rowdymehul/SecurityVue-India-Webinar/issues) and please feel free to submit a PR anytime :)
+For any queries raise a [issue](https://github.com/rowdymehul/software-freedom-day-2021) and please feel free to submit a PR anytime :)
 
